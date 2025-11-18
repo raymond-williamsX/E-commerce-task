@@ -90,7 +90,7 @@ const Footer = () => {
 
         <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
           <p>&copy; 2025 SENDO ATELIER. All rights reserved.
-            <br /> Designed by 
+             Made by 
             <Link to="https://raymond-studio.netlify.app" className="hover:text-accent">
               Raymond Studio  
     </Link> 
