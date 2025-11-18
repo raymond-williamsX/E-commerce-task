@@ -93,7 +93,8 @@ const Footer = () => {
             <br /> Designed by 
             <Link to="https://raymond-studio.netlify.app" className="hover:text-accent">
               Raymond Studio  
-    </Link>
+    </Link> 
+    </p>
         </div>
       </div>
     </footer>
