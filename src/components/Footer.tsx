@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Facebook, Instagram, Twitter } from "lucide-react";
+import { Facebook, Instagram, TikTok } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -12,14 +12,14 @@ const Footer = () => {
               Premium fashion and lifestyle products for the modern individual.
             </p>
             <div className="flex gap-4 mt-4">
-              <a href="#" className="text-muted-foreground hover:text-accent transition-colors">
+              <a href="https://www.facebook.com/sandra.igyosugh/" className="text-muted-foreground hover:text-accent transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-accent transition-colors">
+              <a href="https://www.instagram.com/sendo_atelier/" className="text-muted-foreground hover:text-accent transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-accent transition-colors">
-                <Twitter className="h-5 w-5" />
+              <a href="https://www.tiktok.com/@sendoatelier" className="text-muted-foreground hover:text-accent transition-colors">
+                <TikTok className="h-5 w-5" />
               </a>
             </div>
           </div>

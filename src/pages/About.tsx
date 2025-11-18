@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
-import { Facebook, Instagram, Twitter, Mail } from "lucide-react";
+import { Facebook, Instagram, TikTok, Mail } from "lucide-react";
 
 export default function About() {
   return (
@@ -44,10 +44,10 @@ export default function About() {
         </Card>
 
         <div className="flex justify-center gap-6 mt-10 text-gray-600">
-          <motion.a whileHover={{ scale: 1.2 }} href="https://facebook.com" target="_blank"><Facebook className="w-6 h-6" /></motion.a>
-          <motion.a whileHover={{ scale: 1.2 }} href="https://instagram.com" target="_blank"><Instagram className="w-6 h-6" /></motion.a>
-          <motion.a whileHover={{ scale: 1.2 }} href="https://twitter.com" target="_blank"><Twitter className="w-6 h-6" /></motion.a>
-          <motion.a whileHover={{ scale: 1.2 }} href="mailto:hello@luxe.com"><Mail className="w-6 h-6" /></motion.a>
+          <motion.a whileHover={{ scale: 1.2 }} href="https://www.facebook.com/sandra.igyosugh/" target="_blank"><Facebook className="w-6 h-6" /></motion.a>
+          <motion.a whileHover={{ scale: 1.2 }} href="https://www.instagram.com/sendo_atelier/" target="_blank"><Instagram className="w-6 h-6" /></motion.a>
+          <motion.a whileHover={{ scale: 1.2 }} href="https://www.tiktok.com/@sendoatelier" target="_blank"><TikTok className="w-6 h-6" /></motion.a>
+          <motion.a whileHover={{ scale: 1.2 }} href="mailto:sendoatelier@gmail.com"><Mail className="w-6 h-6" /></motion.a>
         </div>
       </motion.section>
     </div>

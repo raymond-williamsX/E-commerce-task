@@ -1,3 +1,6 @@
+## URL
+https://sendoatelier.netlify.app
+
 
 # E-commerce Task — Vite + React + TypeScript
 
@@ -115,5 +118,6 @@ If you'd like, I can also:
 - Add a `CONTRIBUTING.md` with guidelines
 - Wire up a basic `package.json` `prepare` script or Husky for pre-commit checks
 
-Tell me which extras you want and I'll add them.
+Tell me which extras you want and I'll add them!
+Book me at https://raymond-studio.netlify.app
 
