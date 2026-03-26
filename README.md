@@ -119,5 +119,6 @@ If you'd like, I can also:
 - Wire up a basic `package.json` `prepare` script or Husky for pre-commit checks
 
 Tell me which extras you want and I'll add them!
-Book me at https://raymond-studio.netlify.app
+Book me at https://raymondstudio.dev
 
+Support my work here: https://selar.com/showlove/raymondstudio
